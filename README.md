@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ### Activities and Trophys
 [![trophy](https://github-profile-trophy.vercel.app/?username=enbipaipu)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enbipaipu
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enbipaipu&layout=compact&theme=dark
 )](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enbipaipu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enbipaipu&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
