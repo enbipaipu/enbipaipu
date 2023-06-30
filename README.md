@@ -1,4 +1,4 @@
-<p align="center">## Hi, I'm enbipaipu 👋</p>
+<h2 align="center">## Hi, I'm enbipaipu 👋</h2>
 
 <!--
 **enbipaipu/enbipaipu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
